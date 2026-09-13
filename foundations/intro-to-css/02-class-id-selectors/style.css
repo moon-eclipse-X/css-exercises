@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+.pone {
+    color: black;
+    background-color: rgb(255, 182, 182);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#cool {
+    color: lightblue;
+    font-size: 36px;
+}
+
+.three.four {
+    background-color: rgb(255, 182, 182);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
